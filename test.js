@@ -39,7 +39,6 @@ const mergeStrings = (s1, s2) => {
     pt1 += 1;
   }
 
-
   while (pt2 < lenOfS2) {
     res.push(s2[pt2]);
     pt2 += 1;
